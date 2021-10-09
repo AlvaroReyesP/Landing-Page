@@ -1,0 +1,14 @@
+#top-bar {
+    background-color: #1F2937;
+}   
+#header-logo {
+    color: #f9faf8;
+}
+.header-link-container{
+    text-align: end;
+}
+.header-link{
+    color: #E5E7EB;
+    text-decoration: none;
+    text-align: end;
+}
